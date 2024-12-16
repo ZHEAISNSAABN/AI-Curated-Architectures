@@ -24,9 +24,9 @@ This repository contains an extensive catalog of software architecture patterns 
 ## 📊 **Categorization by Data Management and Processing**
 | **Category**               | **Architectures**                                                                                               |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Transactional Systems**  | Layered Architecture, CQRS, [Saga Architecture](Saga Architecture Pattern/index.md), Eventual Consistency                                             |
+| **Transactional Systems**  | Layered Architecture, CQRS, [Saga Architecture](Pipeline-Oriented%20Microservices/index.md), Eventual Consistency                                             |
 | **Analytical Systems**     | Data-Centric Architecture, Data Mesh, Data Lake, Data Vault, Dark Data, Graph-Oriented Architecture              |
-| **Event-Driven**           | Event-Driven Architecture, CQRS + Event Sourcing, Reactive Microservices, Event Mesh, [Pipeline-Oriented](/Pipeline-Oriented Microservices/index.md)          |
+| **Event-Driven**           | Event-Driven Architecture, CQRS + Event Sourcing, Reactive Microservices, Event Mesh, [Pipeline-Oriented](/Pipeline-Oriented%20Microservices/index.md)          |
 | **Time-Sensitive**         | Temporal Architecture, Time-Based Architecture, Zero Latency Architecture                                      |
 | **AI/ML Data Systems**     | Algorithm-Centric, Federated Learning, Neural Architecture, Bio-Inspired, Augmented Intelligence, AI-Generated   |
 
@@ -58,7 +58,7 @@ This repository contains an extensive catalog of software architecture patterns 
 | **Category**                   | **Architectures**                                                                                                 |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **API-Focused**                | API Gateway, Backend-for-Frontend (BFF), HATEOAS, Service-Oriented Frontend (SOFE)                                |
-| **Message-Oriented**           | Event Mesh, Event-Driven, [Pipeline-Oriented](/Pipeline-Oriented Microservices/index.md) , Choreography-Based Microservices                                |
+| **Message-Oriented**           | Event Mesh, Event-Driven, [Pipeline-Oriented](/Pipeline-Oriented%20Microservices/index.md) , Choreography-Based Microservices                                |
 | **Collaborative Systems**      | Real-Time Collaborative, Peer-to-Peer, Co-Creation Architecture                                                  |
 | **Context-Aware Systems**      | Contextual Awareness, Intent-Based, Feedback Loop Architecture                                                   |
 | **Human-AI Collaboration**     | Augmented Intelligence, Generative Architecture, Sentient Architecture                                            |
@@ -69,7 +69,7 @@ This repository contains an extensive catalog of software architecture patterns 
 | **Category**                     | **Architectures**                                                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **IoT and Edge**                 | Edge Computing, Real-Time Edge Analytics, Swarm, Bio-Inspired, Temporal                                           |
-| **Finance and Fintech**          | Blockchain, Distributed Ledger, Zero Trust, Trustless, [Saga Architecture](Saga Architecture Pattern/index.md), Perpetual                              |
+| **Finance and Fintech**          | Blockchain, Distributed Ledger, Zero Trust, Trustless, [Saga Architecture](Saga%20Architecture%20Pattern/index.md), Perpetual                              |
 | **AI and Data Science**          | Neural Architecture, Federated Learning, Algorithm-Centric, Dark Data, AI-Generated                               |
 | **Healthcare**                   | Federated Learning, Augmented Intelligence, Resilient Architecture, Feedback Loop                                 |
 | **Gaming and Real-Time Systems** | Reactive Programming, Server-Side Blazor, Zero Latency, Memory-First, Real-Time Collaborative                     |
