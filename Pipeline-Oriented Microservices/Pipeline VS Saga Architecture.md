@@ -1,5 +1,3 @@
-![Key Differences Between Saga and Pipeline Architectures](/assets/images/SagaVsPipeline.png)
-
 # Key Differences Between Saga and Pipeline Architectures:
 
 | Feature/Aspect                  | **Saga Orchestration**                                      | **Pipeline Architecture**                                  |
@@ -92,5 +90,3 @@ Yes, you can combine these architectures when needed:
 - **Pipeline Architecture** is a **local, modular, task-focused workflow**, suitable for data transformations and similar tasks.
 
 If your application spans multiple services with a need for eventual consistency, go with **Saga Orchestration**. If your goal is to process and transform data within a single system, **Pipeline Architecture** is a better fit.
-
-## PS: I know it's not the right image to be there, but it is AI-generated and looks funny. Am I wrong?
