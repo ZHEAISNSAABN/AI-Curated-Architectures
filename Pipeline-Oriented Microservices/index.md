@@ -1,3 +1,4 @@
+![Pipeline-Oriented Microservices](/assets/images/Pipeline-Oriented.png)
 # **Pipeline-Oriented Microservices**
    - **Description:** A sequence of microservices processes data in stages, similar to an assembly line.
    - **Strengths:**
