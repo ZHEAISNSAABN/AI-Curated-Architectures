@@ -193,3 +193,5 @@ public class OrderOrchestrator : IConsumer<IInventoryReserved>
 - Implement a prototype with a single step and ensure proper message communication.
 - Extend the saga with more steps and handle error scenarios.
 - Test using integration tests with mocked services and message brokers.
+---
+## [Key Differences Between Saga and Pipeline Architectures](https://github.com/ZHEAISNSAABN/AI-Curated-Architectures/blob/main/Pipeline-Oriented%20Microservices/Pipeline%20VS%20Saga%20Architecture.md#key-differences-between-saga-and-pipeline-architectures)
