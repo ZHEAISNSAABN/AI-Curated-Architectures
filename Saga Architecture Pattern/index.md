@@ -1,4 +1,4 @@
-[![Saga Architecture Pattern](/assets/images/saga-orchestrator.png)]
+![Saga Architecture Pattern](/assets/images/saga-orchestrator.png)
 
 # **Saga Architecture Pattern**
    - **Description:** Manages distributed transactions across multiple services by coordinating a series of compensating transactions.
